@@ -1,6 +1,8 @@
-# Better Energy Storage Redux 0.3.0
+# Better Energy Storage Redux 0.3.1
 
 Better Energy Storage Redux adds six upgraded, vanilla-derived Power Storage tiers for Satisfactory 1.2 and SML 3.12.
+
+This patch corrects the Windows ZIP directory layout so Satisfactory Mod Manager can extract and install the mod. There are no gameplay or balance changes from 0.3.0.
 
 ## Included Tiers
 

@@ -1,5 +1,10 @@
 ﻿# Changelog
 
+## 0.3.1
+
+- Repacked the Windows release with parent-first ZIP directory entries for Satisfactory Mod Manager extraction compatibility.
+- No gameplay or balance changes.
+
 ## 0.3.0
 
 - Rebuilt Better Energy Storage Redux as a faithful content-only port using vanilla Power Storage behavior.
