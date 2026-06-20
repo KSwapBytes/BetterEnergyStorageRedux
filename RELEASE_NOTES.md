@@ -1,0 +1,22 @@
+# Better Energy Storage Redux 0.3.0
+
+Better Energy Storage Redux adds six upgraded, vanilla-derived Power Storage tiers for Satisfactory 1.2 and SML 3.12.
+
+## Included Tiers
+
+| Building | Unlock Tier | Storage Capacity | Authored Max Charge Rate |
+| --- | ---: | ---: | ---: |
+| Power Storage Mk1 | Tier 2 | 250 MWh | 250 MW |
+| Power Storage Mk2 | Tier 3 | 500 MWh | 500 MW |
+| Power Storage Mk3 | Tier 4 | 1,000 MWh | 1,000 MW |
+| Power Storage Mk4 | Tier 5 | 5,000 MWh | 5,000 MW |
+| Power Storage Mk5 | Tier 7 | 10,000 MWh | 10,000 MW |
+| Power Storage Mk6 | Tier 8 | 20,000 MWh | 20,000 MW |
+
+All six tiers include HUB unlock requirements and build-menu recipes. Each tier has been tested individually at its rated storage capacity and charge rate.
+
+## Known Limitation
+
+Mixed battery tiers on the same power grid may not preserve individual authored charge-rate caps because Satisfactory handles batteries as a grid-level storage group.
+
+This is a content-only release and does not hook the game's native power-circuit logic.

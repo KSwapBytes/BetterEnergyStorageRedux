@@ -1,0 +1,16 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Local release artifacts
+*.zip
+*.pdb
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.suo
+*.user

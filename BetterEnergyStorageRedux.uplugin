@@ -1,0 +1,35 @@
+﻿{
+    "FileVersion":  3,
+    "Version":  1,
+    "VersionName":  "0.3.0",
+    "SemVersion":  "0.3.0",
+    "GameVersion":  "\u003e=491125",
+    "FriendlyName":  "Better Energy Storage Redux",
+    "Description":  "Adds upgraded vanilla-derived Power Storage tiers Mk1 through Mk6 for Satisfactory 1.2. Known limitation: mixed battery tiers on the same grid may not preserve individual authored charge-rate caps because Satisfactory handles batteries as a grid-level storage group.",
+    "Category":  "Power",
+    "CreatedBy":  "KSwapBytes",
+    "CreatedByURL":  "https://github.com/KSwapBytes",
+    "DocsURL":  "",
+    "MarketplaceURL":  "",
+    "SupportURL":  "",
+    "CanContainContent":  true,
+    "IsBetaVersion":  false,
+    "IsExperimentalVersion":  false,
+    "Installed":  false,
+    "BuiltInInitialFeatureState":  "Active",
+    "LocalizationTargets":  [
+                                {
+                                    "Name":  "BetterEnergyStorageRedux",
+                                    "LoadingPolicy":  "Always",
+                                    "ConfigGenerationPolicy":  "Never"
+                                }
+                            ],
+    "Plugins":  [
+                    {
+                        "Name":  "SML",
+                        "Enabled":  true,
+                        "SemVersion":  "^3.12.0"
+                    }
+                ],
+    "GameFeature":  true
+}
