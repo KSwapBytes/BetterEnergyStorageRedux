@@ -1,8 +1,8 @@
-# Better Energy Storage Redux 0.3.2
+# Better Energy Storage Redux 0.3.1
 
 Better Energy Storage Redux adds six upgraded, vanilla-derived Power Storage tiers for Satisfactory 1.2 and SML 3.12.
 
-This release formally credits [JanEricS](https://github.com/JanEricStorms), creator of the original [Better Energy Storage](https://ficsit.app/mod/RqqMnXChdiBeB), and distributes the Redux source under the original project's GNU GPL v3 license. There are no gameplay or balance changes from 0.3.1.
+This patch corrects the Windows ZIP directory layout so Satisfactory Mod Manager can extract and install the mod. There are no gameplay or balance changes from 0.3.0.
 
 ## Included Tiers
 
@@ -22,9 +22,3 @@ All six tiers include HUB unlock requirements and build-menu recipes. Each tier 
 Mixed battery tiers on the same power grid may not preserve individual authored charge-rate caps because Satisfactory handles batteries as a grid-level storage group.
 
 This is a content-only release and does not hook the game's native power-circuit logic.
-
-## Credits and License
-
-- Original mod and concept: JanEricS
-- Satisfactory 1.2 Redux rebuild and maintenance: KSwapBytes
-- License: GNU General Public License v3.0

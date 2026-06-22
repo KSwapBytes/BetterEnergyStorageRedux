@@ -1,12 +1,5 @@
 ﻿# Changelog
 
-## 0.3.2
-
-- Added prominent credit for original Better Energy Storage author JanEricS.
-- Added the original project's GNU GPL v3 license to the Redux repository and source package.
-- Added links to the original mod, original author, Redux repository, SMR listing, and issue tracker.
-- No gameplay or balance changes.
-
 ## 0.3.1
 
 - Repacked the Windows release with parent-first ZIP directory entries for Satisfactory Mod Manager extraction compatibility.
