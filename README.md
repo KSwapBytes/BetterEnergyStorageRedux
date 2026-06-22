@@ -1,8 +1,8 @@
 ﻿# Better Energy Storage Redux
 
-Better Energy Storage Redux is a Satisfactory 1.2 / SML 3.12 content-only rebuild of the original Better Energy Storage concept.
+Better Energy Storage Redux is a Satisfactory 1.2 / SML 3.12 content-only continuation of [Better Energy Storage](https://ficsit.app/mod/RqqMnXChdiBeB), originally created by [JanEricS](https://github.com/JanEricStorms).
 
-The mod uses vanilla Power Storage behavior and vanilla-derived assets for stable save/load behavior and compatibility.
+The Redux rebuild is maintained by [KSwapBytes](https://github.com/KSwapBytes). It uses vanilla Power Storage behavior and vanilla-derived assets for stable save/load behavior and compatibility.
 
 ## Tiers
 
@@ -22,3 +22,15 @@ Mixed battery tiers on the same power grid may not preserve individual authored 
 ## Notes
 
 This is a faithful content-only port. Native hooks into `UFGPowerCircuitGroup::TickBatteries` are intentionally not implemented in this version.
+
+## Credits
+
+- Original Better Energy Storage concept and mod: [JanEricS](https://github.com/JanEricStorms)
+- Satisfactory 1.2 Redux rebuild and maintenance: [KSwapBytes](https://github.com/KSwapBytes)
+- Satisfactory and its original assets: Coffee Stain Studios
+
+See [CREDITS.md](CREDITS.md) for full attribution.
+
+## License
+
+Better Energy Storage Redux is distributed under the [GNU General Public License v3.0](LICENSE), matching the original project's license.
